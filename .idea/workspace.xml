@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f3b5672-5724-4e52-83fa-0d8fbe659973" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Models/Status.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2019_07_26_133626_create_statuses_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +166,7 @@
       <workItem from="1564046030374" duration="4172000" />
       <workItem from="1564126834683" duration="91000" />
       <workItem from="1564126950004" duration="715000" />
-      <workItem from="1564129951441" duration="11025000" />
+      <workItem from="1564129951441" duration="11764000" />
     </task>
     <servers />
   </component>
