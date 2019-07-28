@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f3b5672-5724-4e52-83fa-0d8fbe659973" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/StatusesController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/shared/_status_form.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/shared/_feed.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Status.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Status.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/StaticPagesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/StaticPagesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,10 +118,6 @@
       <path value="$PROJECT_DIR$/vendor/caouecs/laravel-lang" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
-  </component>
   <component name="ProjectId" id="1OXhfEzo2BL57TKGXWTNfBArzXC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -168,7 +163,10 @@
       <workItem from="1564046030374" duration="4172000" />
       <workItem from="1564126834683" duration="91000" />
       <workItem from="1564126950004" duration="715000" />
-      <workItem from="1564129951441" duration="13540000" />
+      <workItem from="1564129951441" duration="14271000" />
+      <workItem from="1564279095691" duration="118000" />
+      <workItem from="1564279438659" duration="82000" />
+      <workItem from="1564291111531" duration="414000" />
     </task>
     <servers />
   </component>
@@ -180,7 +178,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
