@@ -91,7 +91,7 @@ class User extends Authenticatable
      */
     public function isFollowing($user_id)
     {
-        return $this->followings->cntains($user_id);
+        return $this->followings->contains($user_id);
     }
 
     /**
